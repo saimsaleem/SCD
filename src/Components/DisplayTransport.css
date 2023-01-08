@@ -1,0 +1,17 @@
+.display{
+    color: aliceblue;
+    margin-top: 110%;
+}
+.subMenuu{
+    background-color: #15172b;
+    border-radius: 20px;
+    box-sizing: border-box;
+    height: 120px;
+    /* padding: 50px; */
+    width: 200px;
+    position: absolute;
+    margin: 500px;
+    margin-left: 37%;
+    margin-top: -700px;
+    box-shadow: rgba(39, 154, 255, 0.35) 0px 5px 15px;
+  }
